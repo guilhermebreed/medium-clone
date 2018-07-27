@@ -1,4 +1,4 @@
-// src/redux/reducers/article.js
+// src/redux/reducers/articles.js
 const initialState = {
     articles: [],
     article: {}
